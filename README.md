@@ -8,6 +8,7 @@
 
 - HTML and CSS
 - Linters
+- Vs code editor
 
 
 ## Authors
