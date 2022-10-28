@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
-
+> This project is an exercise for linters that checks errors of the HTML and CSS codes.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML and CSS
+- Linters
+- Vs code editor
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Here are the stps to clone this project,
 
+Step 1: if you don't have git installed on your machine you can download it from [here](https://git-scm.com/downloads).
+      
+      Once you have git installed on your machine you can clone this project in `gitbash` or `Vs code terminal` by running `git clone <project link>`
 
-To get a local copy up and running follow these simple example steps.
+      Alternatively, you can download the zip file of the project by clicking on the `Code` button on the right side of the project page and clicking on `Download ZIP`
 
-### Prerequisites
+Step 2: Locate the folder where you cloned your project to and open the `index.html` file in your browser to view your project.
 
-### Setup
+## Author
 
-### Install
+👤 **Mintesinot Abayneh**
 
-### Usage
+- GitHub: [@AbuAbay](https://github.com/AbuAbay)
+- LinkedIn: [Mintesinot Abayneh](https://www.linkedin.com/in/mintesinot-abayneh-8149b7183/)
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
