@@ -10,10 +10,21 @@
 - Linters
 - Vs code editor
 
+## Getting Started
 
-## Authors
+Here are the stps to clone this project,
 
-👤 **Author1**
+Step 1: if you don't have git installed on your machine you can download it from [here](https://git-scm.com/downloads).
+      
+      Once you have git installed on your machine you can clone this project in `gitbash` or `Vs code terminal` by running `git clone <project link>`
+
+      Alternatively, you can download the zip file of the project by clicking on the `Code` button on the right side of the project page and clicking on `Download ZIP`
+
+Step 2: Locate the folder where you cloned your project to and open the `index.html` file in your browser to view your project.
+
+## Author
+
+👤 **Mintesinot Abayneh**
 
 - GitHub: [@AbuAbay](https://github.com/AbuAbay)
 - LinkedIn: [Mintesinot Abayneh](https://www.linkedin.com/in/mintesinot-abayneh-8149b7183/)
